@@ -39,8 +39,6 @@ render(Counter, document.getElementById("#app"))
 
 🔬 Fine-grained reactivity — built-in state, computed, and effect
 
-🚧🚧
-Under heavy development
-🚧🚧
+🚧🚧WIP🚧🚧
 Core compiler, renderer, and tooling are being actively built.
 Stay tuned — this is just the beginning.

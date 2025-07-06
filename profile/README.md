@@ -1,8 +1,8 @@
 # re4
 
 **A reactive UI framework with a custom compiler and syntax.**
-[docs](https://www.re4js.dev/)
 Minimal. Expressive. Compiler-first.
+[docs](https://www.re4js.dev/)
 
 ```tsx
 // counter.re

@@ -1,7 +1,7 @@
 # re4
 
-**A reactive UI framework with a custom compiler and syntax.**
-Minimal. Expressive. Compiler-first.
+
+Minimal. Expressive. Compiler-first Javascript Framework
 [docs](https://www.re4js.dev/)
 
 ```tsx

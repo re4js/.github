@@ -1,4 +1,4 @@
-# re4
+# Re4
 
 
 Minimal. Expressive. Compiler-first Javascript Framework

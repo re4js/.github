@@ -27,18 +27,6 @@ component Counter {
 render(Counter, document.getElementById("#app"))
 ```
 
-### Why re4?
-
-🧠 New mental model — no useState, no hooks
-
-⚡ Compiled — outputs direct DOM ops or glue code
-
-🔌 Renderer-agnostic — works with DOM, Canvas, or custom targets
-
-✍️ .re files with TypeScript+JSX syntax
-
-🔬 Fine-grained reactivity — built-in state, computed, and effect
-
 🚧🚧WIP🚧🚧
 Core compiler, renderer, and tooling are being actively built.
-Stay tuned — this is just the beginning.
+Stay tuned - this is just the beginning.
